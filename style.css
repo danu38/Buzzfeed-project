@@ -1,0 +1,48 @@
+ /*Images = %*/
+ /*Text = px*/
+ body {
+     background-color: lightgrey;
+ }
+
+ p {
+     font-family: serif;
+     font-size: 20px;
+ }
+
+ h1,
+ h3,
+ h4 {
+     font-family: 'Times New Roman', serif;
+ }
+
+ h1 {
+     font-size: 75px;
+     text-align: center;
+ }
+
+ h3 {
+     font-size: 35px;
+     text-align: center;
+ }
+
+ h4 {
+     font-size: 30px;
+ }
+
+ img {
+     width: 45%;
+ }
+
+ .container {
+     /*justify-content: space-around;*/
+     display: flex;
+
+ }
+
+ .box {
+     width: 2500px;
+     height: 500px;
+     padding: 10px;
+     margin: 10px;
+
+ }
