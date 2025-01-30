@@ -1,7 +1,18 @@
  /*Images = %*/
  /*Text = px*/
  body {
-     background-color: lightgrey;
+     background-color: #d3d3d3;
+ }
+
+ footer {
+     background-color: #3b313100;
+     color: #000000;
+     text-align: end-padding: 10px;
+     padding: 10px;
+     position: fixed;
+     left: 0;
+     bottom: 0;
+     width: 220px;
  }
 
  p {
@@ -30,7 +41,7 @@
  }
 
  img {
-    /*Made img a bit bigger within the divs /Caspian*/
+     /*Made img a bit bigger within the divs /Caspian*/
      width: 90%;
  }
 
@@ -38,14 +49,14 @@
  .container {
      /*justify-content: space-around;*/
      display: flex;
-
  }
+
 
  /*Padding & margins needed /Caspian*/
  .box {
      width: 2500px;
-     height: 500px;
-     padding: 10px;
+     height: 550px;
+     padding: 50px;
      margin: 10px;
 
  }
