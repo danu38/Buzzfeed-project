@@ -30,15 +30,18 @@
  }
 
  img {
-     width: 45%;
+    /*Made img a bit bigger within the divs /Caspian*/
+     width: 90%;
  }
 
+ /*Padding & margins needed /Caspian*/
  .container {
      /*justify-content: space-around;*/
      display: flex;
 
  }
 
+ /*Padding & margins needed /Caspian*/
  .box {
      width: 2500px;
      height: 500px;
