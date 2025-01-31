@@ -68,8 +68,9 @@
  /*Padding & margins needed /Caspian*/
  .box {
      width: 2500px;
-     height: 550px;
+     height: 600px;
      padding: 50px;
      margin: 10px;
+     border: 4px solid black;
 
  }
